@@ -1,11 +1,15 @@
 h1{
-    font-size: 36px;
-    margin: 0;
+    font-size: 32px;
+    margin: 10px;
+    font-weight: normal;
+    color: #666;
+    text-align: center; /* テキストを中央揃えに */
 }
   .content {
-    background-color: #fff;
+    background-color: #f0f0f0ff;
     width: 1000px;
     margin: 10px auto;
     border: 1px solid #d1d1d1;
     padding: 30px;
+    font-size: 24px;
 }
